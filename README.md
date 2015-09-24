@@ -1,2 +1,2 @@
-# -datasciencecoursera
-Repository created for Coursera data Science project 
+# datasciencecoursera
+Repo created for Coursera data Science project 
